@@ -1,0 +1,1 @@
+The program controls the mouse, a failsafe is built in so that when you quickly move the mouse to the top left corner it turns the bot off.
